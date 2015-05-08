@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#deploy script
 set -e
 
 SHA256SUMMER=sha256sum
